@@ -1,21 +1,44 @@
-# 💫 About Me:
-I'm currently learning ML and C++.<br>Studying BSCS at FAST NUCES.<br>Passionate on working on creating AI Agents
+# Hi, I'm Fahad Zubairi
 
+BSCS student at FAST NUCES, building hands-on toward AI engineering. Currently
+focused on LLM-powered systems, retrieval augmented generation, and AI agents,
+with a foundation in machine learning and C++.
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/fahadzubairi_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/FahadZubairi) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:fahadzubairi725@gmail.com) 
+I learn by building from scratch first, then with frameworks, so I actually
+understand what's happening underneath, not just what works.
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=FahadZubairi&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=FahadZubairi&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=FahadZubairi&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+## Currently Building
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+**RAG From Scratch** — A Retrieval Augmented Generation pipeline built twice:
+once manually with the Gemini API and ChromaDB, no frameworks, then rebuilt
+in LangChain to understand exactly what the framework abstracts.
+[View repository](https://github.com/FahadZubairi/rag-from-scratch)
+
+Next up: deliberately breaking the pipeline to study failure modes, building
+a small evaluation set, and moving toward AI agents.
+
+## Tech Stack
+
+**Languages:** Python, C++, C, JavaScript, HTML5
+
+**AI / ML:** TensorFlow, LangChain, Google Gemini API, ChromaDB, scikit-learn, pandas, numpy
+
+**Tools:** Git, PowerShell, Windows Terminal, .NET, Cisco
+
+## GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=FahadZubairi&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+
+![Streak Stats](https://nirzak-streak-stats.vercel.app/?user=FahadZubairi&theme=dark&hide_border=false)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FahadZubairi&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+## Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/FahadZubairi)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/fahadzubairi_)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:fahadzubairi725@gmail.com)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=FahadZubairi&icon=2&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+![Visitor Count](https://visitcount.itsvg.in/api?id=FahadZubairi&icon=2&color=0)
