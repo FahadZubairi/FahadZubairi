@@ -25,14 +25,6 @@ a small evaluation set, and moving toward AI agents.
 
 **Tools:** Git, PowerShell, Windows Terminal, .NET, Cisco
 
-## GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=FahadZubairi&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-
-![Streak Stats](https://nirzak-streak-stats.vercel.app/?user=FahadZubairi&theme=dark&hide_border=false)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FahadZubairi&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
 ## Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/FahadZubairi)
