@@ -33,4 +33,3 @@ a small evaluation set, and moving toward AI agents.
 
 ---
 
-![Visitor Count](https://visitcount.itsvg.in/api?id=FahadZubairi&icon=2&color=0)
