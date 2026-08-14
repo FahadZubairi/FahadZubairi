@@ -9,7 +9,7 @@ understand what's happening underneath, not just what works.
 
 ## Currently Building
 
-**RAG From Scratch** — A Retrieval Augmented Generation pipeline built twice:
+**RAG From Scratch** : A Retrieval Augmented Generation pipeline built twice:
 once manually with the Gemini API and ChromaDB, no frameworks, then rebuilt
 in LangChain to understand exactly what the framework abstracts.
 [View repository](https://github.com/FahadZubairi/rag-from-scratch)
@@ -19,9 +19,9 @@ a small evaluation set, and moving toward AI agents.
 
 ## Tech Stack
 
-**Languages:** Python, C++, C, JavaScript, HTML5
+**Languages:** Python, C++, C, JavaScript, HTML5, Typescript
 
-**AI / ML:** TensorFlow, LangChain, Google Gemini API, ChromaDB, scikit-learn, pandas, numpy
+**AI / ML:** TensorFlow, LangChain, Google Gemini API, ChromaDB, scikit-learn, pandas, numpy, FastAPi, Auth, JWT
 
 **Tools:** Git, PowerShell, Windows Terminal, .NET, Cisco
 
